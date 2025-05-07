@@ -1,0 +1,4 @@
+com\example\demo\domain\BaseContentTest.class
+com\example\demo\service\RemoveConvertContentStrategyImplTest.class
+com\example\demo\service\ReplaceConvertContentStrategyImplTest.class
+com\example\demo\domain\RemoveContentTest.class
